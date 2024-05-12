@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#10D510</color>
+    <color name="red">#FF0000</color>
+    <color name="viloet_app">#d090ff</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Deep fake app</string>
+    <style name="Base.Theme.DeepFakeApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.DeepFakeApp" parent="Base.Theme.DeepFakeApp"/>
+</resources>

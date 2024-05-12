@@ -1,0 +1,356 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minou\.gradle\caches\transforms-4\44e62f92ab551c0b3044eefcc2c748a7\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minou\.gradle\caches\transforms-4\91a323ae15a2dd4f6b4c4e8a78ce6e71\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Minou\.gradle\caches\transforms-4\285c91a2cb5ff6f346646849b820fb67\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Minou\.gradle\caches\transforms-4\63dff95001b194ee2f3be5d5d26a9633\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\b09fa8dc53bac49af07fb82f6839c833\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Minou\.gradle\caches\transforms-4\0bf4bc78bb1a86c248749501218e643e\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Minou\.gradle\caches\transforms-4\b5a47929465a5c72e1f4daf232616240\transformed\activity-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\91918e7c73a4b568cbaf729a8489d843\transformed\tensorflow-lite-support-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\511fb56981f731ed02f0679a7b0af4fe\transformed\tensorflow-lite-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\592d8733115309d12b965ac0e4221315\transformed\tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\3c4bddec9e19d53be474121313b0fddd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\b740816572769ae6cbd107041835e38d\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\4d2bd33293e0fe702d8a09c849d0605a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\3efc66a2beec697a66648ddc019936ae\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\616a1cebf1e1fd7eabe5b787b546181b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Minou\.gradle\caches\transforms-4\41cf682679928e55ce61db7a83597943\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\c4522ffb48b32ff9241327f328f35693\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\268703b5ed9d66c6d81645d56781e94a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\e276dbf31a1f8baa370717d5e0138de8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\663e11d773ccbec19ca9eb7ccca656ad\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\0b6dfc5d17e4ac9737cd08405387c3a5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\e1c42aacbc7aaabc3d9366031caeb7b5\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\5749001dcc4263570afd7bace361b760\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\009868f25efa2f634bbce86d6dc78c7c\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Minou\.gradle\caches\transforms-4\3cc1f9b63865ab285d28fbc10cbbd32f\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\141ebf3be8990d280b817c39949368ba\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\4f9bb66261600c728e65cec9d5080cc8\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\6ec385ea07c6326b0d967fe85d2dcf29\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\f1988ec0cfd46a2add2c834ec97b916e\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\99efb6e622be0a566e4eceb7a9f7059c\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\a5dce4e9f6312a19450349f71e5f4a27\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\9bbe139566a0ad3295c28805cfe52909\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\9b8416ae64ce6f90ac25093e24a9321f\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\b305fdd5449d11a29932442bb96f0170\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\44f5620e0395c527777a8dd017384383\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\a9eb21aa8cd765e36855209282047d27\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\756a9f76fa8d2c6930fc99411a58c799\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\4fd08e26453c8ccdd159ac66b4841219\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Minou\.gradle\caches\transforms-4\7ea9d1726c0b1f80758c33e21a7556c0\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Minou\.gradle\caches\transforms-4\0a4081b1dc2cab0fd3ff11dbc7613a8c\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\bc4bed4f0affd290fe30b60d3cd4c060\transformed\tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\07950c6d3b503a6f0da796ae0480d5b5\transformed\tensorflow-lite-api-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Minou\.gradle\caches\transforms-4\58253030a07bca033d781bbef52e56b6\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:6:5-82
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:6:22-79
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:9:5-40:19
+INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:9:5-40:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minou\.gradle\caches\transforms-4\44e62f92ab551c0b3044eefcc2c748a7\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minou\.gradle\caches\transforms-4\44e62f92ab551c0b3044eefcc2c748a7\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minou\.gradle\caches\transforms-4\91a323ae15a2dd4f6b4c4e8a78ce6e71\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minou\.gradle\caches\transforms-4\91a323ae15a2dd4f6b4c4e8a78ce6e71\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\511fb56981f731ed02f0679a7b0af4fe\transformed\tensorflow-lite-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\511fb56981f731ed02f0679a7b0af4fe\transformed\tensorflow-lite-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\592d8733115309d12b965ac0e4221315\transformed\tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\592d8733115309d12b965ac0e4221315\transformed\tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\9bbe139566a0ad3295c28805cfe52909\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\9bbe139566a0ad3295c28805cfe52909\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\b305fdd5449d11a29932442bb96f0170\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\b305fdd5449d11a29932442bb96f0170\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-api:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\07950c6d3b503a6f0da796ae0480d5b5\transformed\tensorflow-lite-api-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\07950c6d3b503a6f0da796ae0480d5b5\transformed\tensorflow-lite-api-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Minou\.gradle\caches\transforms-4\58253030a07bca033d781bbef52e56b6\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Minou\.gradle\caches\transforms-4\58253030a07bca033d781bbef52e56b6\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:17:9-49
+	android:dataExtractionRules
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:11:9-65
+activity#com.esidev.deepfake.GenearteImgaesActivity
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:20:13-51
+activity#com.esidev.deepfake.MiddleActivity
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:23:13-43
+activity#com.esidev.deepfake.testactivity
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:26:13-41
+activity#com.esidev.deepfake.SplashScreenActivity
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:exported
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:29:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.esidev.deepfake.MainActivity
+ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:37:9-39:39
+	android:exported
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml:38:13-41
+uses-sdk
+INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minou\.gradle\caches\transforms-4\44e62f92ab551c0b3044eefcc2c748a7\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minou\.gradle\caches\transforms-4\44e62f92ab551c0b3044eefcc2c748a7\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minou\.gradle\caches\transforms-4\91a323ae15a2dd4f6b4c4e8a78ce6e71\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minou\.gradle\caches\transforms-4\91a323ae15a2dd4f6b4c4e8a78ce6e71\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Minou\.gradle\caches\transforms-4\285c91a2cb5ff6f346646849b820fb67\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Minou\.gradle\caches\transforms-4\285c91a2cb5ff6f346646849b820fb67\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Minou\.gradle\caches\transforms-4\63dff95001b194ee2f3be5d5d26a9633\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Minou\.gradle\caches\transforms-4\63dff95001b194ee2f3be5d5d26a9633\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\b09fa8dc53bac49af07fb82f6839c833\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\b09fa8dc53bac49af07fb82f6839c833\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Minou\.gradle\caches\transforms-4\0bf4bc78bb1a86c248749501218e643e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Minou\.gradle\caches\transforms-4\0bf4bc78bb1a86c248749501218e643e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Minou\.gradle\caches\transforms-4\b5a47929465a5c72e1f4daf232616240\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Minou\.gradle\caches\transforms-4\b5a47929465a5c72e1f4daf232616240\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\91918e7c73a4b568cbaf729a8489d843\transformed\tensorflow-lite-support-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\91918e7c73a4b568cbaf729a8489d843\transformed\tensorflow-lite-support-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\511fb56981f731ed02f0679a7b0af4fe\transformed\tensorflow-lite-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\511fb56981f731ed02f0679a7b0af4fe\transformed\tensorflow-lite-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\592d8733115309d12b965ac0e4221315\transformed\tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\592d8733115309d12b965ac0e4221315\transformed\tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:6:5-7:38
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\3c4bddec9e19d53be474121313b0fddd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\3c4bddec9e19d53be474121313b0fddd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\b740816572769ae6cbd107041835e38d\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\b740816572769ae6cbd107041835e38d\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\4d2bd33293e0fe702d8a09c849d0605a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\4d2bd33293e0fe702d8a09c849d0605a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\3efc66a2beec697a66648ddc019936ae\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\3efc66a2beec697a66648ddc019936ae\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\616a1cebf1e1fd7eabe5b787b546181b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\616a1cebf1e1fd7eabe5b787b546181b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Minou\.gradle\caches\transforms-4\41cf682679928e55ce61db7a83597943\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Minou\.gradle\caches\transforms-4\41cf682679928e55ce61db7a83597943\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\c4522ffb48b32ff9241327f328f35693\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\c4522ffb48b32ff9241327f328f35693\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\268703b5ed9d66c6d81645d56781e94a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\268703b5ed9d66c6d81645d56781e94a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\e276dbf31a1f8baa370717d5e0138de8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\e276dbf31a1f8baa370717d5e0138de8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\663e11d773ccbec19ca9eb7ccca656ad\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\663e11d773ccbec19ca9eb7ccca656ad\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\0b6dfc5d17e4ac9737cd08405387c3a5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\0b6dfc5d17e4ac9737cd08405387c3a5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\e1c42aacbc7aaabc3d9366031caeb7b5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\e1c42aacbc7aaabc3d9366031caeb7b5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\5749001dcc4263570afd7bace361b760\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\5749001dcc4263570afd7bace361b760\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\009868f25efa2f634bbce86d6dc78c7c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Minou\.gradle\caches\transforms-4\009868f25efa2f634bbce86d6dc78c7c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Minou\.gradle\caches\transforms-4\3cc1f9b63865ab285d28fbc10cbbd32f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Minou\.gradle\caches\transforms-4\3cc1f9b63865ab285d28fbc10cbbd32f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\141ebf3be8990d280b817c39949368ba\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\141ebf3be8990d280b817c39949368ba\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\4f9bb66261600c728e65cec9d5080cc8\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\4f9bb66261600c728e65cec9d5080cc8\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\6ec385ea07c6326b0d967fe85d2dcf29\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\6ec385ea07c6326b0d967fe85d2dcf29\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\f1988ec0cfd46a2add2c834ec97b916e\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\f1988ec0cfd46a2add2c834ec97b916e\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\99efb6e622be0a566e4eceb7a9f7059c\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\99efb6e622be0a566e4eceb7a9f7059c\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\a5dce4e9f6312a19450349f71e5f4a27\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\a5dce4e9f6312a19450349f71e5f4a27\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\9bbe139566a0ad3295c28805cfe52909\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\9bbe139566a0ad3295c28805cfe52909\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\9b8416ae64ce6f90ac25093e24a9321f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\9b8416ae64ce6f90ac25093e24a9321f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\b305fdd5449d11a29932442bb96f0170\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\b305fdd5449d11a29932442bb96f0170\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\44f5620e0395c527777a8dd017384383\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\44f5620e0395c527777a8dd017384383\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\a9eb21aa8cd765e36855209282047d27\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\a9eb21aa8cd765e36855209282047d27\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\756a9f76fa8d2c6930fc99411a58c799\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\756a9f76fa8d2c6930fc99411a58c799\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\4fd08e26453c8ccdd159ac66b4841219\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Minou\.gradle\caches\transforms-4\4fd08e26453c8ccdd159ac66b4841219\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Minou\.gradle\caches\transforms-4\7ea9d1726c0b1f80758c33e21a7556c0\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Minou\.gradle\caches\transforms-4\7ea9d1726c0b1f80758c33e21a7556c0\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Minou\.gradle\caches\transforms-4\0a4081b1dc2cab0fd3ff11dbc7613a8c\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Minou\.gradle\caches\transforms-4\0a4081b1dc2cab0fd3ff11dbc7613a8c\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\bc4bed4f0affd290fe30b60d3cd4c060\transformed\tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\bc4bed4f0affd290fe30b60d3cd4c060\transformed\tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\07950c6d3b503a6f0da796ae0480d5b5\transformed\tensorflow-lite-api-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-api:0.0.0-nightly-SNAPSHOT] C:\Users\Minou\.gradle\caches\transforms-4\07950c6d3b503a6f0da796ae0480d5b5\transformed\tensorflow-lite-api-0.0.0-nightly-SNAPSHOT\AndroidManifest.xml:6:5-7:38
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Minou\.gradle\caches\transforms-4\58253030a07bca033d781bbef52e56b6\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Minou\.gradle\caches\transforms-4\58253030a07bca033d781bbef52e56b6\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Minou\AndroidStudioProjects\Deepfakeapp\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\9bbe139566a0ad3295c28805cfe52909\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minou\.gradle\caches\transforms-4\9bbe139566a0ad3295c28805cfe52909\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Minou\.gradle\caches\transforms-4\5d5cabf87f5be015e8e2137de4593ffa\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Minou\.gradle\caches\transforms-4\541834602e51e5601977b5b73d07ff76\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.esidev.deepfake.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.esidev.deepfake.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minou\.gradle\caches\transforms-4\f7111484bbf16a21b17a7c60a1fd1388\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minou\.gradle\caches\transforms-4\6f46bb5a5ecff7a85d002c67900c01d6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.esidev.deepfake.app-mergeDebugResources-29:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Minou\\.gradle\\caches\\transforms-4\\63dff95001b194ee2f3be5d5d26a9633\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
